@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "E:\\Android Projects\\AS Projects\\Android Training Advanced\\JUnit4\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 35,
+                    "endOffset": 86
+                },
+                "from": {
+                    "file": "E:\\Android Projects\\AS Projects\\Android Training Advanced\\JUnit4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 120,
+                        "endColumn": 35,
+                        "endOffset": 151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 91,
+                    "endColumn": 61,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "E:\\Android Projects\\AS Projects\\Android Training Advanced\\JUnit4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 61,
+                        "endOffset": 114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endColumn": 39,
+                    "endOffset": 188
+                },
+                "from": {
+                    "file": "E:\\Android Projects\\AS Projects\\Android Training Advanced\\JUnit4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 39,
+                        "endOffset": 192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 193,
+                    "endColumn": 37,
+                    "endOffset": 226
+                },
+                "from": {
+                    "file": "E:\\Android Projects\\AS Projects\\Android Training Advanced\\JUnit4\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 198,
+                        "endColumn": 37,
+                        "endOffset": 231
+                    }
+                }
+            }
+        ]
+    }
+]

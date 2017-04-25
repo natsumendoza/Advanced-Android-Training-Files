@@ -1,0 +1,18 @@
+apply plugin: 'com.android.application'
+
+dependencies {
+    androidTestCompile 'com.android.support.test:rules:0.5'
+    androidTestCompile 'com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    }
+}
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion '25.0.2'
+
+    defaultConfig {
+        testApplicationId "com.commonsware.android.gradle.hello.test"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+}

@@ -1,0 +1,55 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Android Projects\AS Projects\Android Training Advanced\JUnit4\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from E:\Android Projects\AS Projects\Android Training Advanced\JUnit4\app\src\main\AndroidManifest.xml:3:2-39
+	android:versionName
+		ADDED from E:\Android Projects\AS Projects\Android Training Advanced\JUnit4\app\src\main\AndroidManifest.xml:5:2-27
+		INJECTED from E:\Android Projects\AS Projects\Android Training Advanced\JUnit4\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android Projects\AS Projects\Android Training Advanced\JUnit4\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\Android Projects\AS Projects\Android Training Advanced\JUnit4\app\src\main\AndroidManifest.xml:4:2-25
+		INJECTED from E:\Android Projects\AS Projects\Android Training Advanced\JUnit4\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Android Projects\AS Projects\Android Training Advanced\JUnit4\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Android Projects\AS Projects\Android Training Advanced\JUnit4\app\src\main\AndroidManifest.xml:2:11-69
+supports-screens
+ADDED from E:\Android Projects\AS Projects\Android Training Advanced\JUnit4\app\src\main\AndroidManifest.xml:7:2-11:32
+	android:largeScreens
+		ADDED from E:\Android Projects\AS Projects\Android Training Advanced\JUnit4\app\src\main\AndroidManifest.xml:9:3-30
+	android:smallScreens
+		ADDED from E:\Android Projects\AS Projects\Android Training Advanced\JUnit4\app\src\main\AndroidManifest.xml:11:3-30
+	android:normalScreens
+		ADDED from E:\Android Projects\AS Projects\Android Training Advanced\JUnit4\app\src\main\AndroidManifest.xml:10:3-31
+	android:anyDensity
+		ADDED from E:\Android Projects\AS Projects\Android Training Advanced\JUnit4\app\src\main\AndroidManifest.xml:8:3-28
+uses-sdk
+ADDED from E:\Android Projects\AS Projects\Android Training Advanced\JUnit4\app\src\main\AndroidManifest.xml:13:2-15:34
+	android:targetSdkVersion
+		ADDED from E:\Android Projects\AS Projects\Android Training Advanced\JUnit4\app\src\main\AndroidManifest.xml:15:3-32
+	android:minSdkVersion
+		ADDED from E:\Android Projects\AS Projects\Android Training Advanced\JUnit4\app\src\main\AndroidManifest.xml:14:3-29
+application
+ADDED from E:\Android Projects\AS Projects\Android Training Advanced\JUnit4\app\src\main\AndroidManifest.xml:17:2-30:16
+	android:label
+		ADDED from E:\Android Projects\AS Projects\Android Training Advanced\JUnit4\app\src\main\AndroidManifest.xml:19:3-35
+	android:icon
+		ADDED from E:\Android Projects\AS Projects\Android Training Advanced\JUnit4\app\src\main\AndroidManifest.xml:18:3-39
+	android:theme
+		ADDED from E:\Android Projects\AS Projects\Android Training Advanced\JUnit4\app\src\main\AndroidManifest.xml:20:3-64
+activity#com.commonsware.android.abf.ActionBarFragmentActivity
+ADDED from E:\Android Projects\AS Projects\Android Training Advanced\JUnit4\app\src\main\AndroidManifest.xml:21:3-29:14
+	android:label
+		ADDED from E:\Android Projects\AS Projects\Android Training Advanced\JUnit4\app\src\main\AndroidManifest.xml:23:4-36
+	android:name
+		ADDED from E:\Android Projects\AS Projects\Android Training Advanced\JUnit4\app\src\main\AndroidManifest.xml:22:4-44
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Android Projects\AS Projects\Android Training Advanced\JUnit4\app\src\main\AndroidManifest.xml:24:4-28:20
+action#android.intent.action.MAIN
+ADDED from E:\Android Projects\AS Projects\Android Training Advanced\JUnit4\app\src\main\AndroidManifest.xml:25:5-56
+	android:name
+		ADDED from E:\Android Projects\AS Projects\Android Training Advanced\JUnit4\app\src\main\AndroidManifest.xml:25:13-54
+category#android.intent.category.LAUNCHER
+ADDED from E:\Android Projects\AS Projects\Android Training Advanced\JUnit4\app\src\main\AndroidManifest.xml:27:5-64
+	android:name
+		ADDED from E:\Android Projects\AS Projects\Android Training Advanced\JUnit4\app\src\main\AndroidManifest.xml:27:15-62

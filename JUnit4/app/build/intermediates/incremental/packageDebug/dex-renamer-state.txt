@@ -1,0 +1,4 @@
+#Tue Apr 25 13:42:52 SGT 2017
+base.0=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\JUnit4\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\JUnit4\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

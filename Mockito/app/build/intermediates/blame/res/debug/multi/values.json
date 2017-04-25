@@ -1,0 +1,68 @@
+[
+    {
+        "outputFile": "E:\\Android Projects\\AS Projects\\Android Training Advanced\\Mockito\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "E:\\Android Projects\\AS Projects\\Android Training Advanced\\Mockito\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 56,
+                        "endColumn": 51,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 110,
+                    "endLine": 9,
+                    "endColumn": 9,
+                    "endOffset": 381
+                },
+                "from": {
+                    "file": "E:\\Android Projects\\AS Projects\\Android Training Advanced\\Mockito\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 183,
+                        "endLine": 12,
+                        "endColumn": 9,
+                        "endOffset": 460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 386,
+                    "endLine": 12,
+                    "endColumn": 9,
+                    "endOffset": 532
+                },
+                "from": {
+                    "file": "E:\\Android Projects\\AS Projects\\Android Training Advanced\\Mockito\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 495,
+                        "endLine": 17,
+                        "endColumn": 9,
+                        "endOffset": 643
+                    }
+                }
+            }
+        ]
+    }
+]

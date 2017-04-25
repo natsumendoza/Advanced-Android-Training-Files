@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Tue Apr 25 13:42:56 SGT 2017
+2.base=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\JUnit4\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\JUnit4\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\JUnit4\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\JUnit4\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=6
+0.file=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\JUnit4\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+5.base=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\JUnit4\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\JUnit4\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+1.set=DEX
+2.file=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\JUnit4\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\add.xml
+0.base=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\JUnit4\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\JUnit4\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\actions.xml
+3.set=ANDROID_RESOURCE
+1.base=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\JUnit4\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+4.file=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\JUnit4\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+0.set=ANDROID_RESOURCE

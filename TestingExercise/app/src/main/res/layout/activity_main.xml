@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.rr.testingexercise.MainActivity">
+
+    <RelativeLayout
+        android:layout_marginTop="10dp"
+        android:id="@+id/first_field_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/first_name_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/first_name_label"
+            android:layout_toLeftOf="@+id/first_name_spacer"/>
+
+        <View
+            android:id="@+id/first_name_spacer"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_centerHorizontal="true"/>
+
+        <EditText
+            android:id="@+id/et_first_name"
+            android:layout_alignBaseline="@+id/first_name_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/first_name_spacer"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_marginTop="10dp"
+        android:id="@+id/second_field_container"
+        android:layout_below="@+id/first_field_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/last_name_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/last_name_label"
+            android:layout_toLeftOf="@+id/last_name_spacer"/>
+
+        <View
+            android:id="@+id/last_name_spacer"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_centerHorizontal="true"/>
+
+        <EditText
+            android:id="@+id/et_last_name"
+            android:layout_alignBaseline="@+id/last_name_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/last_name_spacer"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_marginTop="10dp"
+        android:id="@+id/third_field_container"
+        android:layout_below="@+id/second_field_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/birthday_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/birthday_label"
+            android:layout_toLeftOf="@+id/birthday_spacer"/>
+
+        <View
+            android:id="@+id/birthday_spacer"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_centerHorizontal="true"/>
+
+        <EditText
+            android:id="@+id/et_birthday"
+            android:layout_alignBaseline="@+id/birthday_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/birthday_spacer"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/fourth_field_container"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/third_field_container">
+
+        <Button
+            android:id="@+id/sendButton"
+            android:text="@string/button_send_label"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@+id/button_spacer"
+            />
+
+        <View
+            android:id="@+id/button_spacer"
+            android:layout_width="2dp"
+            android:layout_height="0dp"
+            android:layout_centerHorizontal="true"/>
+
+        <Button
+            android:id="@+id/clearButton"
+            android:text="@string/button_clear_label"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/button_spacer"
+            />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_below="@+id/fourth_field_container"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/name_text"
+            android:text="@string/name_label"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/date_text"
+            android:text="@string/born_label"
+            android:layout_below="@id/name_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

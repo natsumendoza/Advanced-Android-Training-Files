@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Testing Exercise</string>
+    <string name="first_name_label">First Name:</string>
+    <string name="last_name_label">Last Name:</string>
+    <string name="birthday_label">Birthday:</string>
+    <string name="button_send_label">Send</string>
+    <string name="button_clear_label">Clear</string>
+    <string name="name_label">Your name is</string>
+    <string name="born_label">Born on</string>
+</resources>
