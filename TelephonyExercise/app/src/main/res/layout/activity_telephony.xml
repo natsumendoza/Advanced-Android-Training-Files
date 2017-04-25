@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.rr.telephonyexercise.TelephonyActivity">
+
+    <RelativeLayout
+        android:layout_marginTop="10dp"
+        android:id="@+id/dialer_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/dial_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/dial_text"
+            android:layout_toLeftOf="@+id/dial_spacer"/>
+
+        <View
+            android:id="@+id/dial_spacer"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_centerHorizontal="true"/>
+
+        <EditText
+            android:id="@+id/etDialNum"
+            android:layout_alignBaseline="@+id/dial_text"
+            android:layout_toRightOf="@+id/dial_spacer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/dialButton"
+        android:layout_below="@+id/dialer_container"
+        android:text="@string/dial_now_text"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</RelativeLayout>

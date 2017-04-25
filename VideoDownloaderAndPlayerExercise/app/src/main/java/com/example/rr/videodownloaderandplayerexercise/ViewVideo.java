@@ -44,7 +44,7 @@ public class ViewVideo extends AbstractPermissionActivity {
             video=(VideoView)findViewById(R.id.video);
             video.setVideoPath(clip.getAbsolutePath());
 
-            ctlr=new MediaController(this);
+            ctlr= new MediaController(this);
             ctlr.setMediaPlayer(video);
             video.setMediaController(ctlr);
             video.requestFocus();

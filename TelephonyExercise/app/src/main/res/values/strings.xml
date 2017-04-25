@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Telephony Exercise</string>
+    <string name="dial_text">Number to dial:</string>
+    <string name="dial_now_text">DIAL</string>
+</resources>
