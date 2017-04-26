@@ -1,0 +1,22 @@
+#Wed Apr 26 12:00:34 SGT 2017
+renamed.6=classes7.dex
+renamed.5=classes.dex
+renamed.4=classes3.dex
+renamed.3=classes5.dex
+renamed.2=classes6.dex
+renamed.1=classes2.dex
+renamed.0=classes4.dex
+base.6=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\MapsV2\\NooYawk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-24.0.0_6cff47f823c122ce78ef76d39eb8c45175239f19
+base.5=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\MapsV2\\NooYawk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_28d3014995a6e7d0835bff58540501e2fa19ae73
+base.4=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\MapsV2\\NooYawk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_546f8308356ea01d9785d03db175252d0b2593ce
+base.3=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\MapsV2\\NooYawk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_7813baed6d466c432cf445669582ed8348bc0289
+base.2=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\MapsV2\\NooYawk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-24.0.0_cdafa05d99b8d3db6eb569081c331e75186fffbf
+base.1=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\MapsV2\\NooYawk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_5051a500deb494c23e8550877e8dd22d8a5ad11c
+base.0=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\MapsV2\\NooYawk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_5e8b379f7f853837f9270f790b592d583bdebef2
+file.6=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\MapsV2\\NooYawk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-24.0.0_6cff47f823c122ce78ef76d39eb8c45175239f19\\classes.dex
+file.5=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\MapsV2\\NooYawk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_28d3014995a6e7d0835bff58540501e2fa19ae73\\classes.dex
+file.4=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\MapsV2\\NooYawk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_546f8308356ea01d9785d03db175252d0b2593ce\\classes.dex
+file.3=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\MapsV2\\NooYawk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_7813baed6d466c432cf445669582ed8348bc0289\\classes.dex
+file.2=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\MapsV2\\NooYawk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-24.0.0_cdafa05d99b8d3db6eb569081c331e75186fffbf\\classes.dex
+file.1=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\MapsV2\\NooYawk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_5051a500deb494c23e8550877e8dd22d8a5ad11c\\classes.dex
+file.0=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\MapsV2\\NooYawk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_5e8b379f7f853837f9270f790b592d583bdebef2\\classes.dex

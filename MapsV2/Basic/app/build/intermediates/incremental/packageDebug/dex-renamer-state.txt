@@ -1,0 +1,7 @@
+#Wed Apr 26 11:03:47 SGT 2017
+base.0=E\:\\Android Training Files\\cw-omnibus\\MapsV2\\Basic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a85d8c25db162d847c3b923dce81baf3b2185ec6
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\Android Training Files\\cw-omnibus\\MapsV2\\Basic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3016343ae1a19ee40ae019ff8dc593c6cafc0f68\\classes.dex
+base.1=E\:\\Android Training Files\\cw-omnibus\\MapsV2\\Basic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3016343ae1a19ee40ae019ff8dc593c6cafc0f68
+file.0=E\:\\Android Training Files\\cw-omnibus\\MapsV2\\Basic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a85d8c25db162d847c3b923dce81baf3b2185ec6\\classes.dex

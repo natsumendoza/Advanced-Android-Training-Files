@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jay-Ar Gabriel\.android\build-cache\434d41ce2a8a4a30bf64c38121e621cb47c54734\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="E:\Android Training Files\cw-omnibus\MapsV2\Basic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_299b1e11f92dbec85d7bb1bce204a8c99c5c5dfb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jay-Ar Gabriel\.android\build-cache\544c6d494367e71d40697209fff3f12e39fe1ebf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="E:\Android Training Files\cw-omnibus\MapsV2\Basic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7813baed6d466c432cf445669582ed8348bc0289\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\ASDK\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="E:\Android Training Files\cw-omnibus\MapsV2\Basic\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_6cff47f823c122ce78ef76d39eb8c45175239f19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jay-Ar Gabriel\.android\build-cache\2d62d659632b3e183fc9512b8940ff6bdc065cdd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="E:\Android Training Files\cw-omnibus\MapsV2\Basic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a4b892f57461dd46a902e8eb36b149ea9120b4b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jay-Ar Gabriel\.android\build-cache\544c6d494367e71d40697209fff3f12e39fe1ebf\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="E:\Android Training Files\cw-omnibus\MapsV2\Basic\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_cdafa05d99b8d3db6eb569081c331e75186fffbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android Training Files\cw-omnibus\MapsV2\Basic\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d3131e445ed2325c5c619ed7f624569326bc4d67">
+        <dex dex="E:\Android Training Files\cw-omnibus\MapsV2\Basic\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3016343ae1a19ee40ae019ff8dc593c6cafc0f68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jay-Ar Gabriel\.android\build-cache\69b92587fcff538d093e19967aa0c9d6ea15d977\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="E:\Android Training Files\cw-omnibus\MapsV2\Basic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bf3c92ecd97b4dc23595d634a91a382ed825947d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jay-Ar Gabriel\.android\build-cache\99d5d164f212e8e468f2230cca7d77694cde4050\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="E:\Android Training Files\cw-omnibus\MapsV2\Basic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_02ae59c96a0176f9d09e0d1def5eb6cfe11a3f1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android Training Files\cw-omnibus\MapsV2\Basic\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="E:\Android Training Files\cw-omnibus\MapsV2\Basic\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a85d8c25db162d847c3b923dce81baf3b2185ec6\classes.dex" />
+    </item>
+
+</items>

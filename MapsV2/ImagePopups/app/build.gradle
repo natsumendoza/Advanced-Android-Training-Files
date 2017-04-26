@@ -1,0 +1,16 @@
+apply plugin: 'com.android.application'
+
+dependencies {
+    compile 'com.google.android.gms:play-services-maps:10.2.1'
+    compile 'com.squareup.picasso:picasso:2.5.2'
+}
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion '25.0.2'
+
+    defaultConfig {
+        minSdkVersion 14
+        targetSdkVersion 25
+    }
+}

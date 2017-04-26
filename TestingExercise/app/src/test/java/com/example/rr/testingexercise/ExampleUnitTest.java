@@ -16,7 +16,6 @@ import static org.junit.Assert.*;
  */
 public class ExampleUnitTest {
 
-    MainActivity activity = new MainActivity();
     @Test
     public void addition_isCorrect() throws Exception {
         assertEquals(4, 2 + 2);
@@ -40,7 +39,7 @@ public class ExampleUnitTest {
             e.printStackTrace();
         }
 
-        assertEquals(date1, activity.getFormattedDate("1987/12/03"));
+        assertEquals(date1, MainActivity.getFormattedDate("1987/12/03"));
 
     }
 
@@ -51,7 +50,7 @@ public class ExampleUnitTest {
         String actualDate = "1987/12/03";
 
         try {
-            assertEquals(expectedDate, activity.getSimpleFormattedDate(new SimpleDateFormat("yyyy/MM/dd").parse(actualDate)).toString());
+            assertEquals(expectedDate, MainActivity.getSimpleFormattedDate(new SimpleDateFormat("yyyy/MM/dd").parse(actualDate)).toString());
         } catch (Exception e){
             e.printStackTrace();
         }

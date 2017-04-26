@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public Date getFormattedDate(String dateStr) {
+    public static Date getFormattedDate(String dateStr) {
 
         Date date = null;
 
@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    public String getSimpleFormattedDate(Date date) {
+    public static String getSimpleFormattedDate(Date date) {
 
         String dateStr = new SimpleDateFormat("MMMM dd, y").format(date);
 

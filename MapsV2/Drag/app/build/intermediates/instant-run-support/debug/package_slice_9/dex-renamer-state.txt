@@ -1,0 +1,4 @@
+#Wed Apr 26 14:44:09 SGT 2017
+base.0=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\MapsV2\\Drag\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9
+renamed.0=classes.dex
+file.0=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\MapsV2\\Drag\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9\\classes.dex

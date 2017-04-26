@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Android Projects\AS Projects\Android Training Advanced\MapsV2\NooYawk\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="99c0b882d2810a562b4223afcca7b574be77bee5">
+        <dex dex="E:\Android Projects\AS Projects\Android Training Advanced\MapsV2\NooYawk\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f9a4c35bf515b6e9d6f9af5af4d6668360b4267b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android Projects\AS Projects\Android Training Advanced\MapsV2\NooYawk\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="E:\Android Projects\AS Projects\Android Training Advanced\MapsV2\NooYawk\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9d50c6b4199164255f263d6634c88c77c1856a4d\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Android Projects\AS Projects\Android Training Advanced\MapsV2\FlatMarkers\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="E:\Android Projects\AS Projects\Android Training Advanced\MapsV2\FlatMarkers\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_eb1bfe8d095b67a726b8cf587d31b15fd6973425\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android Projects\AS Projects\Android Training Advanced\MapsV2\FlatMarkers\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bff901f252e74842a17ac94cc570ccf6d9242eeb">
+        <dex dex="E:\Android Projects\AS Projects\Android Training Advanced\MapsV2\FlatMarkers\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_12db9c7a13e372a6d13b42d18d435418deb9c288\classes.dex" />
+    </item>
+
+</items>

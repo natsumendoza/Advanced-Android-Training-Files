@@ -1,0 +1,22 @@
+#Wed Apr 26 14:44:08 SGT 2017
+renamed.6=classes.dex
+renamed.5=classes6.dex
+renamed.4=classes7.dex
+renamed.3=classes4.dex
+renamed.2=classes2.dex
+renamed.1=classes3.dex
+renamed.0=classes5.dex
+base.6=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\MapsV2\\Drag\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_02ae59c96a0176f9d09e0d1def5eb6cfe11a3f1f
+base.5=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\MapsV2\\Drag\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-24.0.0_cdafa05d99b8d3db6eb569081c331e75186fffbf
+base.4=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\MapsV2\\Drag\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-24.0.0_6cff47f823c122ce78ef76d39eb8c45175239f19
+base.3=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\MapsV2\\Drag\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_a4b892f57461dd46a902e8eb36b149ea9120b4b0
+base.2=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\MapsV2\\Drag\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_299b1e11f92dbec85d7bb1bce204a8c99c5c5dfb
+base.1=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\MapsV2\\Drag\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_7813baed6d466c432cf445669582ed8348bc0289
+base.0=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\MapsV2\\Drag\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_bf3c92ecd97b4dc23595d634a91a382ed825947d
+file.6=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\MapsV2\\Drag\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_02ae59c96a0176f9d09e0d1def5eb6cfe11a3f1f\\classes.dex
+file.5=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\MapsV2\\Drag\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-24.0.0_cdafa05d99b8d3db6eb569081c331e75186fffbf\\classes.dex
+file.4=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\MapsV2\\Drag\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-24.0.0_6cff47f823c122ce78ef76d39eb8c45175239f19\\classes.dex
+file.3=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\MapsV2\\Drag\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_a4b892f57461dd46a902e8eb36b149ea9120b4b0\\classes.dex
+file.2=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\MapsV2\\Drag\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_299b1e11f92dbec85d7bb1bce204a8c99c5c5dfb\\classes.dex
+file.1=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\MapsV2\\Drag\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_7813baed6d466c432cf445669582ed8348bc0289\\classes.dex
+file.0=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\MapsV2\\Drag\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_bf3c92ecd97b4dc23595d634a91a382ed825947d\\classes.dex

@@ -1,0 +1,7 @@
+#Wed Apr 26 16:22:33 SGT 2017
+base.0=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\MapsV2\\NooYawk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f9a4c35bf515b6e9d6f9af5af4d6668360b4267b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\MapsV2\\NooYawk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9d50c6b4199164255f263d6634c88c77c1856a4d\\classes.dex
+base.1=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\MapsV2\\NooYawk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9d50c6b4199164255f263d6634c88c77c1856a4d
+file.0=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\MapsV2\\NooYawk\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f9a4c35bf515b6e9d6f9af5af4d6668360b4267b\\classes.dex

@@ -1,0 +1,7 @@
+#Wed Apr 26 14:44:09 SGT 2017
+base.0=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\MapsV2\\Drag\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9d130c1db33ab9c9bc3191527355c2b56563bc51
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\MapsV2\\Drag\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2e4684d4095afe9b9cf221dddd5db1ad53cb16e6\\classes.dex
+base.1=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\MapsV2\\Drag\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2e4684d4095afe9b9cf221dddd5db1ad53cb16e6
+file.0=E\:\\Android Projects\\AS Projects\\Android Training Advanced\\MapsV2\\Drag\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9d130c1db33ab9c9bc3191527355c2b56563bc51\\classes.dex
