@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Big Android App Exercise</string>
+    <string name="first_name_label">First Name</string>
+    <string name="last_name_label">Last Name</string>
+    <string name="address_label">Address</string>
+    <string name="telephone_label">Telephone</string>
+    <string name="email_label">Email</string>
+    <string name="add_label">ADD</string>
+    <string name="clear_label">CLEAR</string>
+    <string name="view_label">View</string>
+    <string name="no_maps">Google Maps V2 not available!</string>
+</resources>
