@@ -2,62 +2,58 @@ package com.example.rr.mybigandroidappexercise;
 
 import android.content.Intent;
 import android.database.Cursor;
+import android.os.PersistableBundle;
+import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.widget.LinearLayoutManager;
+import android.support.v7.widget.RecyclerView;
+import android.util.Log;
 import android.view.View;
+import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
+import android.widget.ImageView;
 import android.widget.ListView;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.example.rr.mybigandroidappexercise.database.InformationContract;
 import com.example.rr.mybigandroidappexercise.database.InformationDbHelper;
+import com.example.rr.mybigandroidappexercise.model.Info;
 
 import java.util.ArrayList;
 
-public class ViewActivity extends AppCompatActivity {
+public class ViewActivity extends RecyclerViewActivity {
 
-    private ListView listView;
-    private InformationDbHelper infoDb;
+    private  InformationDbHelper infoDb;
 
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
+    public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_view);
 
-        listView = (ListView) findViewById(R.id.info_list);
         infoDb = new InformationDbHelper(this);
-
-        Cursor cursor = infoDb.getInfos();
-        ArrayList<String> infos = new ArrayList<>();
-        while(cursor.moveToNext()) {
-
-            String firstName = cursor.getString(
-                    cursor.getColumnIndex(InformationContract.InformationEntry.COLUMN_NAME_FIRST_NAME));
-            long id = cursor.getLong(cursor.getColumnIndex(InformationContract.InformationEntry._ID));
-            infos.add(firstName);
-
-        }
-
-        listView.setOnItemClickListener(new ListViewItemClickListener());
-
-        cursor.close();
-
-        ArrayAdapter<String> adapter =
-                new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, infos);
-        listView.setAdapter(adapter);
-
+        setLayoutManager(new LinearLayoutManager(this));
+        setAdapter(new InfoAdapter());
     }
 
-    class ListViewItemClickListener implements AdapterView.OnItemClickListener {
+    class InfoAdapter extends RecyclerView.Adapter<RowController> {
+
         @Override
-        public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-
-            Intent intent = new Intent(getApplicationContext(), DetailsActivity.class);
-            intent.putExtra(Intent.EXTRA_TEXT, String.valueOf(id + 1));
-            startActivity(intent);
-
+        public RowController onCreateViewHolder(ViewGroup parent, int viewType) {
+            return new RowController(getLayoutInflater().inflate(R.layout.row, parent, false));
         }
+
+        @Override
+        public void onBindViewHolder(RowController holder, int position) {
+            holder.bindModel(infoDb.getInfos().get(position));
+        }
+
+        @Override
+        public int getItemCount() {
+            return infoDb.getInfos().size();
+        }
+
     }
 
 }

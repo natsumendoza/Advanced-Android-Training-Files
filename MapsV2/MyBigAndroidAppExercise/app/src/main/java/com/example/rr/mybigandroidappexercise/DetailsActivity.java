@@ -121,10 +121,9 @@ public class DetailsActivity extends AbstractMapActivity implements OnMapReadyCa
 
         @Override
         public void onClick(View v) {
-            Intent intent = new Intent(Intent.ACTION_SEND);
-
+            Intent intent = new Intent(Intent.ACTION_SENDTO);
+            intent.setData(Uri.parse("mailto:"));
             intent.putExtra(Intent.EXTRA_EMAIL, info.getEmail());
-            intent.setType("message/rfc822");
             startActivity(intent);
         }
     }

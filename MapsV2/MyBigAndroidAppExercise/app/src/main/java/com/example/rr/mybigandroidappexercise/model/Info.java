@@ -6,18 +6,28 @@ package com.example.rr.mybigandroidappexercise.model;
 
 public class Info {
 
+    private String id;
     private String firstName;
     private String lastName;
     private String telephone;
     private String email;
     private String address;
 
-    public Info(String firstName, String lastName, String address, String telephone, String email) {
+    public Info(String id, String firstName, String lastName, String address, String telephone, String email) {
+        setId(id);
         setFirstName(firstName);
         setLastName(lastName);
         setAddress(address);
         setTelephone(telephone);
         setEmail(email);
+    }
+
+    public String getId() {
+        return id;
+    }
+
+    public void setId(String id) {
+        this.id = id;
     }
 
     public String getFirstName() {

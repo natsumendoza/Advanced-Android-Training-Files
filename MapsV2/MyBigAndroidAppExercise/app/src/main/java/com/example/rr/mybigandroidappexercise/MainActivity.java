@@ -46,6 +46,7 @@ public class MainActivity extends AppCompatActivity {
         @Override
         public void onClick(View v) {
             Info info = new Info(
+                    null,
                     etFirstName.getText().toString(),
                     etLastName.getText().toString(),
                     etAddress.getText().toString(),

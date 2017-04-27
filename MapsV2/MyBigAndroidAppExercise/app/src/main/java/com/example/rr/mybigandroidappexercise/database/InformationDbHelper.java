@@ -8,6 +8,8 @@ import android.database.sqlite.SQLiteOpenHelper;
 
 import com.example.rr.mybigandroidappexercise.model.Info;
 
+import java.util.ArrayList;
+
 /**
  * Created by Jay-Ar Gabriel on 4/27/2017.
  */
@@ -62,7 +64,7 @@ public class InformationDbHelper extends SQLiteOpenHelper {
 
     }
 
-    public Cursor getInfos() {
+    public ArrayList<Info> getInfos() {
         SQLiteDatabase db = this.getReadableDatabase();
 
         String[] projection = {
@@ -74,7 +76,9 @@ public class InformationDbHelper extends SQLiteOpenHelper {
                 InformationContract.InformationEntry.COLUMN_NAME_EMAIL
         };
 
-        return db.query(
+        ArrayList<Info> infos = new ArrayList<>();
+
+        Cursor cursor = db.query(
                 InformationContract.InformationEntry.TABLE_NAME,
                 projection,
                 null,
@@ -83,6 +87,25 @@ public class InformationDbHelper extends SQLiteOpenHelper {
                 null,
                 null
         );
+
+        while(cursor.moveToNext()) {
+            String id = cursor.getString(
+                    cursor.getColumnIndex(InformationContract.InformationEntry._ID));
+            String firstName = cursor.getString(
+                    cursor.getColumnIndex(InformationContract.InformationEntry.COLUMN_NAME_FIRST_NAME));
+            String lastName = cursor.getString(
+                    cursor.getColumnIndex(InformationContract.InformationEntry.COLUMN_NAME_LAST_NAME));
+            String address = cursor.getString(
+                    cursor.getColumnIndex(InformationContract.InformationEntry.COLUMN_NAME_ADDRESS));
+            String telephone = cursor.getString(
+                    cursor.getColumnIndex(InformationContract.InformationEntry.COLUMN_NAME_TELEPHONE));
+            String email = cursor.getString(
+                    cursor.getColumnIndex(InformationContract.InformationEntry.COLUMN_NAME_EMAIL));
+
+            infos.add(new Info(id, firstName, lastName, address, telephone, email));
+        }
+
+        return infos;
 
     }
 
@@ -112,6 +135,7 @@ public class InformationDbHelper extends SQLiteOpenHelper {
                 null
         );
 
+        String id2 = null;
         String firstName = null;
         String lastName = null;
         String telephone = null;
@@ -119,6 +143,8 @@ public class InformationDbHelper extends SQLiteOpenHelper {
         String address = null;
 
         while(cursor.moveToNext()) {
+            id2 = cursor.getString(
+                    cursor.getColumnIndex(InformationContract.InformationEntry._ID));
             firstName = cursor.getString(
                     cursor.getColumnIndex(InformationContract.InformationEntry.COLUMN_NAME_FIRST_NAME));
             lastName = cursor.getString(
@@ -133,7 +159,7 @@ public class InformationDbHelper extends SQLiteOpenHelper {
 
         cursor.close();
 
-        return new Info(firstName, lastName, address, telephone, email);
+        return new Info(id2, firstName, lastName, address, telephone, email);
 
     }
 
